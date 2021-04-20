@@ -6,3 +6,5 @@ Cátedra Moreno. Lenguajes C, Rust, Assembly. Manejo de general de instrucciones
 * lab2 : codificación y decodificación, UTF-8, UTF-16, UTF-32. Lenguajes C y Rust.
 * lab3 : implementación de TDA cola y resolución de "bomblab". Lenguaje Assembly.
 * TP1 : simulador de cache. Lenguaje C.
+
+Trabajos hechos con colaboración de Julia Valdovinos (https://github.com/julia-valdo).
