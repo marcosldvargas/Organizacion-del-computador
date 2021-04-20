@@ -1,0 +1,3 @@
+# bomba número: 11
+set disassemble-next-line on
+run sol.txt

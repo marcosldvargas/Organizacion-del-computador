@@ -1,0 +1,6 @@
+Todo el código en este directorio ha sido escrito sin leer código assembly generado por otra herramienta (p. ej. GCC, objdump).
+
+Integrantes del grupo:
+
+  - Julia Valdovinos
+  - Marcos Vargas
